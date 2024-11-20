@@ -8,7 +8,6 @@
 - [Features](#features)
 - [Compiling the Project](#compiling-the-project)
 - [How to Use](#how-to-use)
-- [Testing](#testing)
 
 ## Introduction
 
